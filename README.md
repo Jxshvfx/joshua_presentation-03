@@ -1,4 +1,4 @@
-# Interconnecté
+# Instrumentum
 
 ## Idée
 
@@ -65,7 +65,7 @@ Donc, il aurait quelques mp4 pour les bases des visuels, ensuite les instruments
 ### Matériel
 
 #### Électronique
-- 1 ou 2 projecteurs
+- Epsum Home Cinema 2150 Wireless 3CLD Projector
 - 1 Écran (Assez grosse taille) sinon plusieurs petits écrans ensemble
 - Plusieurs lumières
 - Sculpture Abstraite (2-3)
