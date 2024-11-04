@@ -8,7 +8,7 @@ Créer une sorte de concert personnel mais accessible au public. Celle-ci aurait
 ## Références et inspirations
 
 ### Planche d'ambiance visuelles
-![plancheVisuelle](assets/MoodBoard%20Visuel.png)
+![plancheVisuelle](assets/images/MoodBoard%20Visuel.png)
 
 ### Planche d'ambiance sonores 
 
