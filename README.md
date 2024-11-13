@@ -102,11 +102,12 @@ Donc, il aurait quelques mp4 pour les bases des visuels, ensuite les instruments
 - 2 5PX-HEX (Lumières)
   ![plancheVisuelle](assets/images/5PX-HEX.jpg)
   
-- Sculpture Mains
+- 2 Sculpture Mains
   
   ![plancheVisuelle](assets/images/main_sculptures.jpg)
+
+- [Support pour les sculptures](https://youtu.be/exuQNdkZcog)
   
-- Pédale (Peut être une idée)
 - Ordinateurs (1 ou 2)
   
 - NanoKontrol 2
@@ -114,6 +115,7 @@ Donc, il aurait quelques mp4 pour les bases des visuels, ensuite les instruments
   
 - Fils XLR, HDMI, USB-C, USB-A
 - Speakers Genelec
+  
   ![plancheVisuelle](assets/images/genelec_speakers.jpg)
 
 #### Instruments
