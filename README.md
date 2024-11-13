@@ -63,8 +63,11 @@ graph TD;
 
 ## Scénarimage / Simulation
 
-#### Simulation
+### Simulation
 ![plancheVisuelle](assets/images/Simulation_02.jpg)
+
+### Scénarimage
+![plancheVisuelle](assets/images/scenarimage.jpg)
 
 #### Organique
 ![plancheVisuelle](assets/images/examples_01_00009.jpg)
@@ -100,6 +103,7 @@ Donc, il aurait quelques mp4 pour les bases des visuels, ensuite les instruments
   ![plancheVisuelle](assets/images/5PX-HEX.jpg)
   
 - Sculpture Mains
+  
   ![plancheVisuelle](assets/images/main_sculptures.jpg)
   
 - Pédale (Peut être une idée)
@@ -109,8 +113,8 @@ Donc, il aurait quelques mp4 pour les bases des visuels, ensuite les instruments
   ![plancheVisuelle](assets/images/nanokontrol2.jpg)
   
 - Fils XLR, HDMI, USB-C, USB-A
-- Speakers
-  ![plancheVisuelle](assets/images/nanokontrol2.jpg)
+- Speakers Genelec
+  ![plancheVisuelle](assets/images/genelec_speakers.jpg)
 
 #### Instruments
 - Akai MPK Mini Plus 37-key Keyboard
