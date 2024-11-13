@@ -96,10 +96,10 @@ Donc, il aurait quelques mp4 pour les bases des visuels, ensuite les instruments
 ### Matériel
 
 #### Électronique
-- [Epsum Home Cinema 2150 Wireless 3CLD Projector](https://epson.ca/Remise-%C3%A0-neuf-certifi%C3%A9e/Divertissement-%C3%A0-domicile/Home-Cinema-2150-Wireless-1080p-3LCD-Projector---Remise-%C3%A0-neuf-certifi%C3%A9e/p/V11H852020-N)
+- 3 [Epsum Home Cinema 2150 Wireless 3CLD Projector](https://epson.ca/Remise-%C3%A0-neuf-certifi%C3%A9e/Divertissement-%C3%A0-domicile/Home-Cinema-2150-Wireless-1080p-3LCD-Projector---Remise-%C3%A0-neuf-certifi%C3%A9e/p/V11H852020-N)
   ![plancheVisuelle](assets/images/projecteur_epson.PNG)
   
-- 2 5PX-HEX (Lumières)
+- 2-6 5PX-HEX (Lumières)
   ![plancheVisuelle](assets/images/5PX-HEX.jpg)
   
 - 2 Sculpture Mains
@@ -114,7 +114,7 @@ Donc, il aurait quelques mp4 pour les bases des visuels, ensuite les instruments
   ![plancheVisuelle](assets/images/nanokontrol2.jpg)
   
 - Fils XLR, HDMI, USB-C, USB-A
-- Speakers Genelec
+- 2-6 Speakers Genelec
   
   ![plancheVisuelle](assets/images/genelec_speakers.jpg)
 
