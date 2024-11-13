@@ -10,6 +10,10 @@ Créer une sorte de concert personnel mais accessible au public. Celle-ci aurait
 ### Planche d'ambiance visuelles
 ![plancheVisuelle](assets/images/MoodBoard%20Visuel.png)
 
+#### Pour les sculptures
+
+https://www.temasarte.com/en/Angeles-Anglada-Sculpture-Allegory-to-the-music-aaanglada_alegoriaalamusica.html
+
 ### Planche d'ambiance sonores 
 
 Pour l'ambiance générale, je cherche quelque chose qui va de normal (instruments normal) vers des effets synth, etc. Le choix d'un son "synth" ou "synthwave" serait car le son est plutot cinématique et me marque beaucoup.
@@ -59,7 +63,8 @@ graph TD;
 
 ## Scénarimage / Simulation
 
-### Simulation 
+#### Simulation
+![plancheVisuelle](assets/images/Simulation_02.jpg)
 
 #### Organique
 ![plancheVisuelle](assets/images/examples_01_00009.jpg)
@@ -70,9 +75,15 @@ graph TD;
 #### Synth Complet
 ![plancheVisuelle](assets/images/examples_03_00009.jpg)
 
+### Exemple Concret Dans Touch Designer (Merci à Victor)
+https://youtu.be/ATLhkFcQZN0
+
 ## Synoptique
 
 ![plancheVisuelle](assets/images/Synoptique.jpg)
+
+## Plantation
+![plancheVisuelle](assets/images/Plantation.jpg)
 
 ## Technologies
 
@@ -83,18 +94,23 @@ Donc, il aurait quelques mp4 pour les bases des visuels, ensuite les instruments
 
 #### Électronique
 - [Epsum Home Cinema 2150 Wireless 3CLD Projector](https://epson.ca/Remise-%C3%A0-neuf-certifi%C3%A9e/Divertissement-%C3%A0-domicile/Home-Cinema-2150-Wireless-1080p-3LCD-Projector---Remise-%C3%A0-neuf-certifi%C3%A9e/p/V11H852020-N)
-  ![plancheVisuelle](assets/images/5PX-HEX.jpg)
-  
-- 5PX-HEX (Lumières)
   ![plancheVisuelle](assets/images/projecteur_epson.PNG)
   
-- Sculpture Abstraite (2-3)
-- Pédale (Peut être une idée)
-- Ordinateurs
-- NanoKontrol 2
+- 2 5PX-HEX (Lumières)
+  ![plancheVisuelle](assets/images/5PX-HEX.jpg)
   
-- Fils nécessaire pour connecter les éléments entre eux.
+- Sculpture Mains
+  ![plancheVisuelle](assets/images/main_sculptures.jpg)
+  
+- Pédale (Peut être une idée)
+- Ordinateurs (1 ou 2)
+  
+- NanoKontrol 2
+  ![plancheVisuelle](assets/images/nanokontrol2.jpg)
+  
+- Fils XLR, HDMI, USB-C, USB-A
 - Speakers
+  ![plancheVisuelle](assets/images/nanokontrol2.jpg)
 
 #### Instruments
 - Akai MPK Mini Plus 37-key Keyboard
