@@ -57,6 +57,12 @@ graph TD;
     H{La personne ajoute des effets/change visuel}--> I{la personne est satisfaite} & J{la personne est impressionner} & K{La personne expérimente plus} & L{La personne quitte};
 ```
 
+## Scénarimage / Simulation
+
+## Synoptique
+
+![plancheVisuelle](assets/images/Synoptique.jpg)
+
 ## Technologies
 
 ### Support médiatique
