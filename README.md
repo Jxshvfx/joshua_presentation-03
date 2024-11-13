@@ -59,6 +59,17 @@ graph TD;
 
 ## Scénarimage / Simulation
 
+### Simulation 
+
+#### Organique
+![plancheVisuelle](assets/images/examples_01_00009.jpg)
+
+#### Organique Modifié (Synth)
+![plancheVisuelle](assets/images/examples_02_00009.jpg)
+
+#### Synth Complet
+![plancheVisuelle](assets/images/examples_03_00009.jpg)
+
 ## Synoptique
 
 ![plancheVisuelle](assets/images/Synoptique.jpg)
@@ -71,20 +82,30 @@ Donc, il aurait quelques mp4 pour les bases des visuels, ensuite les instruments
 ### Matériel
 
 #### Électronique
-- Epsum Home Cinema 2150 Wireless 3CLD Projector
-- 1 Écran (Assez grosse taille) sinon plusieurs petits écrans ensemble
-- Plusieurs lumières
+- [Epsum Home Cinema 2150 Wireless 3CLD Projector](https://epson.ca/Remise-%C3%A0-neuf-certifi%C3%A9e/Divertissement-%C3%A0-domicile/Home-Cinema-2150-Wireless-1080p-3LCD-Projector---Remise-%C3%A0-neuf-certifi%C3%A9e/p/V11H852020-N)
+  ![plancheVisuelle](assets/images/5PX-HEX.jpg)
+  
+- 5PX-HEX (Lumières)
+  ![plancheVisuelle](assets/images/projecteur_epson.PNG)
+  
 - Sculpture Abstraite (2-3)
 - Pédale (Peut être une idée)
 - Ordinateurs
-- Controlleur Midi
+- NanoKontrol 2
+  
 - Fils nécessaire pour connecter les éléments entre eux.
 - Speakers
 
 #### Instruments
 - Akai MPK Mini Plus 37-key Keyboard
+  ![plancheVisuelle](assets/images/akai_keyboard-37.png)
+  
 - EART Electric Guitar SSS Single Coil
+  ![plancheVisuelle](assets/images/guitar_electrique.jpg)
+  
 - Donner Electric Drum Set
+  ![plancheVisuelle](assets/images/drum_set.jpg)
+  
 
 
 ### Logiciels
@@ -97,7 +118,6 @@ Différents Logiciels seront utilisé pour que les projections, les instruments 
 - Reaper ou Max (Pour la détection d’audio des instruments, et les effets sur celle-ci)
 - Blender / Maya (Pour les bases de visuels 3D, objets, etc.)
 
-Ceci sont des suggestions, il faudrait faire des tests pour confirmer.
 Le réseau de communication serait majoritairement midi car celle-ci est faite pour la détection d’audio d’instruments musicales.
 
 ## Réferences: 
